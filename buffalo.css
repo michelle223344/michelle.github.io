@@ -23,3 +23,17 @@ li float: left;
 body{
   background-color: #4283f4;
 }
+
+
+
+img, buffalo{
+margin: 150px;
+position: absolute;
+right: 100px;
+top: 60px;
+opacity: 0.9;
+width: 350px;
+height: 350px;
+border-radius: 25px;
+}
+  
