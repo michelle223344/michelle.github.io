@@ -36,3 +36,13 @@ height: 350px;
 border-radius: 25px;
   
 }
+
+img, school{ 
+margin: 150px;
+position: absolute;
+right: 100px;
+top: 60px;
+opacity: 0.9;
+width: 350px;
+height: 350px;
+border-radius: 25px;
