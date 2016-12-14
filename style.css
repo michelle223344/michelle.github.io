@@ -1,0 +1,14 @@
+img, michelle{
+height: 400px;
+width:400px;
+rotation-point: 50% 50%
+rotation:90deg;
+}
+
+img, city{
+  right: 100px;
+  top: 60px;
+  width: 350px;
+  height: 350px;
+  border-radius: 25px;
+}
